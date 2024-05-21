@@ -1,7 +1,5 @@
 package com.example.loading.tasks1C.task1;
 
-import com.example.loading.tasks1C.task1.Equipment;
-
 import java.util.ArrayList;
 import java.util.List;
 
